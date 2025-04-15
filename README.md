@@ -18,7 +18,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 Soy estudiante de **Ingeniería de Sistemas** y actualmente me gusta estar en el desarrollo de aplicaciones **web**.
+- 🔭 Soy estudiante de **Ingeniería de Sistemas** y **Diseñador Grafico Jr**.
 - 🌱 Actualmente estoy aprendiendo sobre **MySql** y **JavaScript**.
 - 👯 Busco colaborar con desarrolladores en **gestión de bases de datos** y **Visualización Frontend**.
 - 🤔 Estoy interesado en contribuir a proyectos **Open Source**.
